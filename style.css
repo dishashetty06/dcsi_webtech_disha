@@ -14,7 +14,7 @@
         justify-content: center;
         align-items:center;
     }
-    .opts{
+    .navbar ul{
         display: flex;
         justify-content: center;
         align-items: center;
