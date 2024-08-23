@@ -80,6 +80,7 @@ a{
     width:150px;
     font-size:1rem;
     margin-left:20px;
+    position:absolute;
 }
 .herosec{
     background-color: #f5f7fa;
